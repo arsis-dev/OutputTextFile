@@ -1,2 +1,2 @@
 # OutputTextFile
-Easily create and download simple text files.
+PHP class to easily create and download simple text files.
